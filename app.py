@@ -1,6 +1,6 @@
 
 import streamlit as st
-from recipes import (
+from recipe_data import recipe_data
     get_recommendations, search_recipe, filter_recipes, add_recipe, load_recipes, save_recipes
 )
 
