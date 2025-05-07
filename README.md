@@ -33,4 +33,4 @@ streamlit run app.py
 3. Click **"Deploy an app"**
 4. Connect your GitHub repo and choose `app.py`
 
-Enjoy your cooking adventure! 🍳
+Enjoy your cooking adventure!! 🍳
